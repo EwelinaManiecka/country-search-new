@@ -2,7 +2,7 @@
   "name": "country-search-new",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://EwelinaManiecka.github.io/country-search-new",
+  "homepage": "https://EwelinaManiecka.github/country-search-new",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /country-search-new/"
@@ -15,7 +15,7 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ewelinamaniecka/country-search-new2/issues"
+    "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
     "lodash.debounce": "^4.0.8",
