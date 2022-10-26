@@ -12,8 +12,8 @@ const infoCountry = document.querySelector(".country-info");
 // infoCountry.addEventListener("click", showCountry);
 
 // function clean
-function cleanMarkup(ref) {
-    return ref.innerHTML = '';
+function cleanMarkup(infoCountry) {
+    return infoCountry.innerHTML = "";
   }
 
 function formatCountPeople(num) {
