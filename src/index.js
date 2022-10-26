@@ -12,9 +12,9 @@ const infoCountry = document.querySelector(".country-info");
 // infoCountry.addEventListener("click", showCountry);
 
 //function clean
-function cleanMarkup(ref) {
-    ref.innerHTML = "";
-}
+// function cleanMarkup(ref) {
+//     ref.innerHTML = "";
+// }
 
 function formatCountPeople(num) {
     if (num >= 1000000000)
