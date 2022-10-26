@@ -1,15 +1,15 @@
 {
-  "name": "country-search-new2",
+  "name": "country-search-new",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://EwelinaManiecka.github.io/country-search-new2",
+  "homepage": "https://EwelinaManiecka.github.io/country-search-new",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /country-search-new2/"
+    "build": "parcel build src/*.html --public-url /country-search-new/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ewelinamaniecka/country-search-new2.git"
+    "url": "git+https://github.com/ewelinamaniecka/country-search-new.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
